@@ -1,5 +1,10 @@
 - Оглавление
-    - [1. Установка операционной системы линукс](1-lnstalling-linux.md)
-    - [2. Первые комманды](2-first-commands.md)
-
-
+    1. [Установка операционной системы линукс](1-lnstalling-linux.md)
+    2. [Первые комманды](2-first-commands.md)
+    3. [Установка программ](3-installing-programm.md)
+    4. [Bash](4-bash.md)
+        1. [Шаг за шагом](4.1-bash-step-by-step.md)
+        2. [Условия](4.2-bash-for-nd-while.md)
+        3. [Параметры и опции](4.3-parameters-and-options.md)
+        4. [Вводи вывод](4.4-input-output.md)
+    5. [Утилиты и окружение](5-utilites.md)
